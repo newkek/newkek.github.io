@@ -23,3 +23,5 @@ That's the thing I'm interested in the most. They always go the extra mile to ma
 Now there's not much other companies I could see being able to do all of it as they do, the only one I left see is Google. But whether I'm victim of a marketing lie or not, I trust my every day data, my daily habits, my every move, more into the hands of Apple than Google.
 
 Next stop will be an Apple TV but only when they decided to support 4K HDMI.
+
+_You're probably wondering why there is twice "Something" in the title, I have no particular reason, but it's not a typo._
