@@ -5,7 +5,7 @@ description: "Waffles are just pancakes with abs."
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
-url:
+url: blog.kgdo.me
 feed:
   path: atom.xml
 
@@ -29,10 +29,10 @@ owner:
   name: Kevin Gallardo
   email: me.kgdo@gmail.com
   twitter: coffeebreaque
-  google: KévinGALLARDOZ
+  google: https://plus.google.com/u/0/+K%C3%A9vinGALLARDOZ
     ad-client:
     ad-slot:
-  bio:
+  bio: You're down in the page now, you can scroll back up
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname:
 
